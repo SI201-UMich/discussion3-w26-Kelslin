@@ -4,6 +4,9 @@ class Rectangle():
     # Create the constructor "__init__" method
 
     # YOUR CODE HERE
+    def __init__(self, width, length):
+        self.width = width
+        self.length = length
 
 
 
@@ -18,13 +21,11 @@ class Rectangle():
     # YOUR CODE HERE
 
 
-
     # Create the "__eq__" method
     # 
     # Returns a boolean value
 
     # YOUR CODE HERE
-
 
     
 
